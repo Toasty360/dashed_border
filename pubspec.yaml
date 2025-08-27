@@ -1,6 +1,6 @@
 name: dashed_border
 description: "A Flutter package for customizable dashed, dotted, and solid borders with support for rounded corners and animations. Perfect for creating beautiful decorative borders with full control over dash patterns, gaps, and styles."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/Toasty360/dashed_border
 repository: https://github.com/Toasty360/dashed_border
 issue_tracker: https://github.com/Toasty360/dashed_border/issues

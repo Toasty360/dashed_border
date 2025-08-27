@@ -41,6 +41,12 @@ All notable changes to the `dashed_border` package will be documented in this fi
 
 ---
 
+
+## [1.0.1] - 08-26-2025
+
+Updated Readme.md
+
+
 ## [1.0.0] - TBD
 
 ### Planned Stable Release
