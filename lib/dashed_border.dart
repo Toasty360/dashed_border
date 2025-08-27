@@ -85,7 +85,6 @@ class DashedBorder extends BoxBorder {
   }
 
   void _drawDottedPath(Canvas canvas, Path path, Paint paint) {
-    // Treat dots as very short dashes with equal gap
     final double dotLength = width * 1.5;
     final PathMetrics metrics = path.computeMetrics();
 
