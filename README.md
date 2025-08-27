@@ -1,6 +1,4 @@
-Here's a comprehensive `README.md` file for your Dashed Border package:
 
-```markdown
 # Dashed Border
 
 A Flutter package that provides customizable dashed, dotted, and solid borders for widgets with support for rounded corners.
