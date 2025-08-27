@@ -4,7 +4,6 @@ version: 1.0.2
 homepage: https://github.com/Toasty360/dashed_border
 repository: https://github.com/Toasty360/dashed_border
 issue_tracker: https://github.com/Toasty360/dashed_border/issues
-publish_to: https://pub.dev/
 environment:
   sdk: ^3.8.1
   flutter: ">=1.17.0"
